@@ -2,6 +2,8 @@
 
 A full-stack library management application (backend + frontend) with user authentication, book management, lending/returns, reservations, admin/librarian dashboard, reports/analytics
 
+You can access the application [Live Here](https://mylibrary-app.onrender.com)
+
 This README explains the project structure, setup, environment variables, running the app, important API endpoints, and notes about the dashboard and recent-activity features.
 
 ## Table of Contents
